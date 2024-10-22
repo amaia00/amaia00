@@ -1,5 +1,5 @@
 # Hi 👋, I'm Amaia !
-### A passionate engineering manager from the heart of South America 🇵🇾 Paraguay
+### A passionate Engineering Manager at [Gistia](https://www.gistia.com/), working remote from the heart of South America 🇵🇾 Paraguay
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/amaianazabal/](https://www.linkedin.com/in/amaianazabal/)
 - ⚡ Fun fact *I enjoy doing pottery 🏺*
