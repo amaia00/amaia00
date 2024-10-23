@@ -1,8 +1,17 @@
 # Hi 👋, I'm Amaia !
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/amaia00)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amaianazabal/)
+
 ### A passionate Engineering Manager at [Gistia](https://www.gistia.com/), working remote from the heart of South America 🇵🇾 Paraguay
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/amaianazabal/](https://www.linkedin.com/in/amaianazabal/)
+- 📄 Know about my experiences in my LinkedIn profile.
 - ⚡ Fun fact *I enjoy doing pottery 🏺*
+
+### Publications
+
+> Approximate Querying on Property Graphs
+> 
+> [SUM 2019: The 13th international conference on Scalable Uncertainty Management · Dec 2, 2019](https://link.springer.com/chapter/10.1007/978-3-030-35514-2_19)
 
 ---
 ### Summary:
