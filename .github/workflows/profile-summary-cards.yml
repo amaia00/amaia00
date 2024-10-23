@@ -20,6 +20,10 @@ jobs:
   
     steps:
       - uses: actions/checkout@v2
+
+      - name: Pull Remote Changes
+        run: git pull
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
